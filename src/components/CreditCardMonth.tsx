@@ -9,15 +9,7 @@ import {
 import { chevronDown, chevronForward } from "ionicons/icons";
 import React from "react";
 import { useState } from "react";
-
-interface CreditCardMonthData {
-  name: string;
-  cards: {
-    bank: string;
-    balance: number;
-  }[];
-  total: number;
-}
+import CreditCardMonthData from "./creditcard";
 
 const CreditCardMonth: React.FC<CreditCardMonthData> = ({
   name,
