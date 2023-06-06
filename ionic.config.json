@@ -1,0 +1,7 @@
+{
+  "name": "PocketPower",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

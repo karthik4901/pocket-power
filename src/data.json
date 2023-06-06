@@ -1,0 +1,30 @@
+[
+  {
+    "name": "January",
+    "cards": [
+      {
+        "bank": "US bank",
+        "balance": 120
+      },
+      {
+        "bank": "bank of america",
+        "balance": 100
+      }
+    ],
+    "total": 220
+  },
+  {
+    "name": "February",
+    "cards": [
+      {
+        "bank": "US bank",
+        "balance": 1200
+      },
+      {
+        "bank": "bank of america",
+        "balance": 800
+      }
+    ],
+    "total": 2000
+  }
+]
